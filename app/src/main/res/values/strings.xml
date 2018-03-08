@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="txt_wait">Wait for it. Your pokemons are coming.</string>
+</resources>
